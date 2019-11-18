@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | 李 墨彤</title>
+    <link>https://motongli.github.io/en/tags/</link>
+      <atom:link href="https://motongli.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 李 墨彤</copyright><lastBuildDate>Sun, 03 Nov 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://motongli.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://motongli.github.io/en/tags/</link>
+    </image>
+    
+    <item>
+      <title>peer-reviewed</title>
+      <link>https://motongli.github.io/en/tags/peer-reviewed/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0800</pubDate>
+      <guid>https://motongli.github.io/en/tags/peer-reviewed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>upcoming</title>
+      <link>https://motongli.github.io/en/tags/upcoming/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0800</pubDate>
+      <guid>https://motongli.github.io/en/tags/upcoming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>non peer-reviewed</title>
+      <link>https://motongli.github.io/en/tags/non-peer-reviewed/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0800</pubDate>
+      <guid>https://motongli.github.io/en/tags/non-peer-reviewed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

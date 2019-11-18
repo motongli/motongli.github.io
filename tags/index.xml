@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | 李 墨彤</title>
+    <link>https://motongli.github.io/tags/</link>
+      <atom:link href="https://motongli.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2019 李 墨彤</copyright><lastBuildDate>Sun, 03 Nov 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://motongli.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://motongli.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>査読あり</title>
+      <link>https://motongli.github.io/tags/%E6%9F%BB%E8%AA%AD%E3%81%82%E3%82%8A/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0800</pubDate>
+      <guid>https://motongli.github.io/tags/%E6%9F%BB%E8%AA%AD%E3%81%82%E3%82%8A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>予告</title>
+      <link>https://motongli.github.io/tags/%E4%BA%88%E5%91%8A/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0800</pubDate>
+      <guid>https://motongli.github.io/tags/%E4%BA%88%E5%91%8A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>査読なし</title>
+      <link>https://motongli.github.io/tags/%E6%9F%BB%E8%AA%AD%E3%81%AA%E3%81%97/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0800</pubDate>
+      <guid>https://motongli.github.io/tags/%E6%9F%BB%E8%AA%AD%E3%81%AA%E3%81%97/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

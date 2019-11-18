@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | 李 墨彤</title>
+    <link>https://motongli.github.io/en/authors/</link>
+      <atom:link href="https://motongli.github.io/en/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 李 墨彤</copyright><lastBuildDate>Sun, 03 Nov 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://motongli.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://motongli.github.io/en/authors/</link>
+    </image>
+    
+    <item>
+      <title>LI Motong</title>
+      <link>https://motongli.github.io/en/authors/li-motong/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0800</pubDate>
+      <guid>https://motongli.github.io/en/authors/li-motong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LI Qiao</title>
+      <link>https://motongli.github.io/en/authors/li-qiao/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0800</pubDate>
+      <guid>https://motongli.github.io/en/authors/li-qiao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MINEMATSU Nobuaki</title>
+      <link>https://motongli.github.io/en/authors/minematsu-nobuaki/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0800</pubDate>
+      <guid>https://motongli.github.io/en/authors/minematsu-nobuaki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>峯松 信明</title>
+      <link>https://motongli.github.io/en/authors/%E5%B3%AF%E6%9D%BE-%E4%BF%A1%E6%98%8E/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0800</pubDate>
+      <guid>https://motongli.github.io/en/authors/%E5%B3%AF%E6%9D%BE-%E4%BF%A1%E6%98%8E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>李 俏</title>
+      <link>https://motongli.github.io/en/authors/%E6%9D%8E-%E4%BF%8F/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0800</pubDate>
+      <guid>https://motongli.github.io/en/authors/%E6%9D%8E-%E4%BF%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>李 墨彤</title>
+      <link>https://motongli.github.io/en/authors/%E6%9D%8E-%E5%A2%A8%E5%BD%A4/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0800</pubDate>
+      <guid>https://motongli.github.io/en/authors/%E6%9D%8E-%E5%A2%A8%E5%BD%A4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motong LI</title>
+      <link>https://motongli.github.io/en/authors/motong-li/</link>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0800</pubDate>
+      <guid>https://motongli.github.io/en/authors/motong-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://motongli.github.io/en/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://motongli.github.io/en/authors/admin/</guid>
+      <description>&lt;!-- # Biography
+
+大阪大学言語文化研究科博士後期課程在学中。専攻分野は言語学で、日本語のアクセントを研究している。 --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

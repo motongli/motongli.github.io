@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>峯松 信明 | 李 墨彤</title>
+    <link>https://motongli.github.io/en/authors/%E5%B3%AF%E6%9D%BE-%E4%BF%A1%E6%98%8E/</link>
+      <atom:link href="https://motongli.github.io/en/authors/%E5%B3%AF%E6%9D%BE-%E4%BF%A1%E6%98%8E/index.xml" rel="self" type="application/rss+xml" />
+    <description>峯松 信明</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 李 墨彤</copyright><lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://motongli.github.io/img/icon-192.png</url>
+      <title>峯松 信明</title>
+      <link>https://motongli.github.io/en/authors/%E5%B3%AF%E6%9D%BE-%E4%BF%A1%E6%98%8E/</link>
+    </image>
+    
+    <item>
+      <title>母語話者が有するアクセント感覚の統計的モデリングとそれを用いた学習者のアクセント感覚の定着を調査する分析ツールの開発</title>
+      <link>https://motongli.github.io/en/talk/li_et_al_2019_castel/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0800</pubDate>
+      <guid>https://motongli.github.io/en/talk/li_et_al_2019_castel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
