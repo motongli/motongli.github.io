@@ -2,150 +2,158 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>李 墨彤</title>
-    <link>https://motongli.github.io/</link>
-      <atom:link href="https://motongli.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://motongli.github.io/en/</link>
+      <atom:link href="https://motongli.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <description>李 墨彤</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2019 李 墨彤</copyright><lastBuildDate>Sun, 03 Nov 2019 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 李 墨彤</copyright><lastBuildDate>Sun, 03 Nov 2019 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://motongli.github.io/img/icon-192.png</url>
       <title>李 墨彤</title>
-      <link>https://motongli.github.io/</link>
+      <link>https://motongli.github.io/en/</link>
     </image>
     
     <item>
       <title>親密度の高い外来語におけるアクセント型の自然度評価</title>
-      <link>https://motongli.github.io/talk/li_2019_zgryjxyjh/</link>
+      <link>https://motongli.github.io/en/talk/li_2019_zgryjxyjh/</link>
       <pubDate>Sun, 03 Nov 2019 00:00:00 +0800</pubDate>
-      <guid>https://motongli.github.io/talk/li_2019_zgryjxyjh/</guid>
+      <guid>https://motongli.github.io/en/talk/li_2019_zgryjxyjh/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>母語話者が有するアクセント感覚の統計的モデリングとそれを用いた学習者のアクセント感覚の定着に関する定量的分析</title>
-      <link>https://motongli.github.io/talk/li_et_al_2019_psj/</link>
+      <title>Statistical modeling of natives’ implicit knowledge of accentuation and its use for quantitative analysis of learners’ acquisition of the implicit knowledge</title>
+      <link>https://motongli.github.io/en/talk/li_et_al_2019_psj/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0800</pubDate>
-      <guid>https://motongli.github.io/talk/li_et_al_2019_psj/</guid>
+      <guid>https://motongli.github.io/en/talk/li_et_al_2019_psj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>親密度の低い漢語と四字漢語短縮形のアクセント型の⽣成及び⾃然度評価</title>
-      <link>https://motongli.github.io/talk/li_2019_phsj/</link>
+      <link>https://motongli.github.io/en/talk/li_2019_phsj/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0800</pubDate>
-      <guid>https://motongli.github.io/talk/li_2019_phsj/</guid>
+      <guid>https://motongli.github.io/en/talk/li_2019_phsj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>母語話者が有するアクセント感覚の統計的モデリングとそれを用いた学習者のアクセント感覚の定着を調査する分析ツールの開発</title>
-      <link>https://motongli.github.io/talk/li_et_al_2019_castel/</link>
+      <link>https://motongli.github.io/en/talk/li_et_al_2019_castel/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0800</pubDate>
-      <guid>https://motongli.github.io/talk/li_et_al_2019_castel/</guid>
+      <guid>https://motongli.github.io/en/talk/li_et_al_2019_castel/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>首都圏方言話者による架空外来語のアクセント型の生成及び自然度評価</title>
-      <link>https://motongli.github.io/talk/li_2018_psj/</link>
+      <title>Production and Naturalness Judgements of Accent Patterns in Made-up Loanwords by Tokyo Metropolitan Dialect Speakers</title>
+      <link>https://motongli.github.io/en/talk/li_2018_psj/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0800</pubDate>
-      <guid>https://motongli.github.io/talk/li_2018_psj/</guid>
+      <guid>https://motongli.github.io/en/talk/li_2018_psj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>首都圏方言アクセントの読み上げ調査 ―制約ベースモデルによる分析―</title>
-      <link>https://motongli.github.io/talk/li_201812_paik/</link>
+      <link>https://motongli.github.io/en/talk/li_201812_paik/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0800</pubDate>
-      <guid>https://motongli.github.io/talk/li_201812_paik/</guid>
+      <guid>https://motongli.github.io/en/talk/li_201812_paik/</guid>
       <description></description>
     </item>
     
     <item>
       <title>首都圏方言アクセントの生成及び自然度評価調査 ―漢語の場合―</title>
-      <link>https://motongli.github.io/talk/li_201811_kinki/</link>
+      <link>https://motongli.github.io/en/talk/li_201811_kinki/</link>
       <pubDate>Sat, 03 Nov 2018 00:00:00 +0800</pubDate>
-      <guid>https://motongli.github.io/talk/li_201811_kinki/</guid>
+      <guid>https://motongli.github.io/en/talk/li_201811_kinki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>首都圏方言アクセントの生成及び自然度評価調査 ―架空外来語の場合―</title>
-      <link>https://motongli.github.io/talk/li_201810_paik/</link>
+      <link>https://motongli.github.io/en/talk/li_201810_paik/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0800</pubDate>
-      <guid>https://motongli.github.io/talk/li_201810_paik/</guid>
+      <guid>https://motongli.github.io/en/talk/li_201810_paik/</guid>
       <description></description>
     </item>
     
     <item>
       <title>東京方言のデフォルトアクセントに関する予備的調査</title>
-      <link>https://motongli.github.io/talk/li_201805_paik/</link>
+      <link>https://motongli.github.io/en/talk/li_201805_paik/</link>
       <pubDate>Sat, 26 May 2018 00:00:00 +0800</pubDate>
-      <guid>https://motongli.github.io/talk/li_201805_paik/</guid>
+      <guid>https://motongli.github.io/en/talk/li_201805_paik/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Learnability of the Accentuation of Sino-Japanese Words and Loanwords: The Hidden Structure Problem</title>
-      <link>https://motongli.github.io/publication/li_2018/</link>
+      <link>https://motongli.github.io/en/publication/li_2018/</link>
       <pubDate>Sat, 31 Mar 2018 00:00:00 +0800</pubDate>
-      <guid>https://motongli.github.io/publication/li_2018/</guid>
+      <guid>https://motongli.github.io/en/publication/li_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>漢語と外来語の優勢なアクセント型の学習可能性について</title>
-      <link>https://motongli.github.io/talk/li_2017/</link>
+      <link>https://motongli.github.io/en/talk/li_2017/</link>
       <pubDate>Fri, 23 Jun 2017 00:00:00 +0800</pubDate>
-      <guid>https://motongli.github.io/talk/li_2017/</guid>
+      <guid>https://motongli.github.io/en/talk/li_2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>日本語漢語の優勢なアクセント型の分布 ー外来語と比較してー</title>
-      <link>https://motongli.github.io/publication/li_2017/</link>
+      <title>The Distribution of Dominant Accentual Patterns in Sino-Japanese Words: A Comparison with Loanwords</title>
+      <link>https://motongli.github.io/en/publication/li_2017/</link>
       <pubDate>Fri, 31 Mar 2017 00:00:00 +0800</pubDate>
-      <guid>https://motongli.github.io/publication/li_2017/</guid>
+      <guid>https://motongli.github.io/en/publication/li_2017/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>日本語漢語および外来語のアクセント分布について</title>
-      <link>https://motongli.github.io/talk/li_201702_kinki/</link>
+      <link>https://motongli.github.io/en/talk/li_201702_kinki/</link>
       <pubDate>Sat, 04 Feb 2017 00:00:00 +0800</pubDate>
-      <guid>https://motongli.github.io/talk/li_201702_kinki/</guid>
+      <guid>https://motongli.github.io/en/talk/li_201702_kinki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>日本語漢語と外来語のアクセント分布の学習可能性</title>
-      <link>https://motongli.github.io/talk/li_201612_paik/</link>
+      <link>https://motongli.github.io/en/talk/li_201612_paik/</link>
       <pubDate>Sat, 17 Dec 2016 00:00:00 +0800</pubDate>
-      <guid>https://motongli.github.io/talk/li_201612_paik/</guid>
+      <guid>https://motongli.github.io/en/talk/li_201612_paik/</guid>
       <description></description>
     </item>
     
     <item>
       <title>最適性理論から見た日本語漢語の優勢なアクセント型の産出 ―外来語と比較して―</title>
-      <link>https://motongli.github.io/talk/li_2016/</link>
+      <link>https://motongli.github.io/en/talk/li_2016/</link>
       <pubDate>Fri, 24 Jun 2016 00:00:00 +0800</pubDate>
-      <guid>https://motongli.github.io/talk/li_2016/</guid>
+      <guid>https://motongli.github.io/en/talk/li_2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>最適性理論から見た日本語漢語アクセントの分布</title>
-      <link>https://motongli.github.io/talk/li_201602_paik/</link>
+      <link>https://motongli.github.io/en/talk/li_201602_paik/</link>
       <pubDate>Sat, 06 Feb 2016 00:00:00 +0800</pubDate>
-      <guid>https://motongli.github.io/talk/li_201602_paik/</guid>
+      <guid>https://motongli.github.io/en/talk/li_201602_paik/</guid>
       <description></description>
     </item>
     
     <item>
       <title>中国語母語話者による日本語漢語アクセントの生成について ―過剰生成と母語転移を中心に―</title>
-      <link>https://motongli.github.io/talk/li_2015/</link>
+      <link>https://motongli.github.io/en/talk/li_2015/</link>
       <pubDate>Sat, 03 Oct 2015 00:00:00 +0800</pubDate>
-      <guid>https://motongli.github.io/talk/li_2015/</guid>
+      <guid>https://motongli.github.io/en/talk/li_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>中国語母語話者による日本語漢語アクセントの生成について ―過剰生成と母語転移を中心に―</title>
+      <link>https://motongli.github.io/en/publication/li_2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0800</pubDate>
+      <guid>https://motongli.github.io/en/publication/li_2015/</guid>
       <description></description>
     </item>
     

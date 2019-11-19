@@ -1,7 +1,7 @@
 {
   "name": "李 墨彤",
   "short_name": "李 墨彤",
-  "lang": "ja",
+  "lang": "en-us",
   "theme_color": "#2962ff",
   "background_color": "#2962ff",
   "icons": [{
@@ -14,5 +14,5 @@
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/?utm_source=web_app_manifest"
+  "start_url": "/en/?utm_source=web_app_manifest"
 }

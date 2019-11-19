@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="en-us">
 
 <head>
 
@@ -21,19 +21,19 @@
   
   
 
-  <meta name="author" content="李 墨彤">
+  <meta name="author" content="Motong LI">
 
   
   
   
     
   
-  <meta name="description" content="Site description in Japanese...">
+  <meta name="description" content="">
 
   
-  <link rel="alternate" hreflang="en" href="https://motongli.github.io/en/">
-  
   <link rel="alternate" hreflang="ja" href="https://motongli.github.io/">
+  
+  <link rel="alternate" hreflang="en-us" href="https://motongli.github.io/en/">
 
   
 
@@ -97,14 +97,14 @@
 
 
   
-  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="李 墨彤">
+  <link rel="alternate" href="/en/index.xml" type="application/rss+xml" title="李 墨彤">
   
 
-  <link rel="manifest" href="/index.webmanifest">
+  <link rel="manifest" href="/en/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://motongli.github.io/">
+  <link rel="canonical" href="https://motongli.github.io/en/">
 
   
   
@@ -117,10 +117,10 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="李 墨彤">
-  <meta property="og:url" content="https://motongli.github.io/">
+  <meta property="og:url" content="https://motongli.github.io/en/">
   <meta property="og:title" content="李 墨彤">
-  <meta property="og:description" content="Site description in Japanese..."><meta property="og:image" content="https://motongli.github.io/img/icon-192.png">
-  <meta property="twitter:image" content="https://motongli.github.io/img/icon-192.png"><meta property="og:locale" content="ja">
+  <meta property="og:description" content=""><meta property="og:image" content="https://motongli.github.io/img/icon-192.png">
+  <meta property="twitter:image" content="https://motongli.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2019-11-03T00:00:00&#43;08:00">
   
@@ -174,7 +174,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="検索..." autocapitalize="off"
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
         autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
@@ -198,7 +198,7 @@
     
     
     
-      <a class="navbar-brand" href="/">李 墨彤</a>
+      <a class="navbar-brand" href="/en/">李 墨彤</a>
     
 
     
@@ -239,7 +239,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#about" data-target="#about"><span>プロフィール</span></a>
+          <a class="nav-link " href="/en/#about" data-target="#about"><span>Home</span></a>
         </li>
 
         
@@ -268,7 +268,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#publications" data-target="#publications"><span>出版物</span></a>
+          <a class="nav-link " href="/en/#publications" data-target="#publications"><span>Publications</span></a>
         </li>
 
         
@@ -297,7 +297,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#talks" data-target="#talks"><span>発表</span></a>
+          <a class="nav-link " href="/en/#talks" data-target="#talks"><span>Talks</span></a>
         </li>
 
         
@@ -326,7 +326,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#teaching" data-target="#teaching"><span>授業</span></a>
+          <a class="nav-link " href="/en/#teaching" data-target="#teaching"><span>Teaching</span></a>
         </li>
 
         
@@ -355,7 +355,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#contact" data-target="#contact"><span>連絡先</span></a>
+          <a class="nav-link " href="/en/#contact" data-target="#contact"><span>Contact</span></a>
         </li>
 
         
@@ -377,7 +377,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/files/cv.pdf"><span>履歴書（中国語）</span></a>
+          <a class="nav-link " href="/en/files/cv.pdf"><span>CV (Chinese)</span></a>
         </li>
 
         
@@ -405,15 +405,15 @@
       
       <li class="nav-item dropdown i18n-dropdown">
         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
-          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">日本語</span>
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">English</span>
         </a>
         <div class="dropdown-menu">
           <div class="dropdown-item active font-weight-bold">
-            <span>日本語</span>
+            <span>English</span>
           </div>
           
-          <a class="dropdown-item" href="/en/" data-target="/en/">
-            <span>English</span>
+          <a class="dropdown-item" href="/" data-target="/">
+            <span>日本語</span>
           </a>
           
         </div>
@@ -456,8 +456,6 @@
   
 
   
-    
-  
 
   
     
@@ -500,7 +498,7 @@
   
   
 
-  <section id="hero" class="home-section wg-hero dark  bg-image " style="background-color: navy;background-image: linear-gradient(#4bb4e3, #2b94c3);background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(&#39;https://motongli.github.io/img/headers/banner-1.jpg&#39;);background-size: cover;background-position: center;" >
+  <section id="hero" class="home-section wg-hero dark  bg-image " style="background-image: linear-gradient(#4bb4e3, #2b94c3);background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(&#39;https://motongli.github.io/img/headers/banner-1.jpg&#39;);background-size: cover;background-position: center;" >
     <div class="container">
       
 
@@ -512,11 +510,38 @@
 
 
     <h1 class="hero-title">
-      こんにちは！
+      Hello!
     </h1>
 
     
-    <div class="hero-lead"><p>李 墨彤のホームページです。個人履歴・研究・発表などを展示しています。</p>
+    <div class="hero-lead"><p>This is Motong LI&rsquo;s homepage. Personal profile and publications are shown below.</p>
+
+<!-- The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀
+<br>
+<small><a id="academic-release" href="https://sourcethemes.com/academic/updates">Latest release</a></small>
+<br><br>
+<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=gcushen&amp;repo=hugo-academic&amp;type=star&amp;count=true&amp;size=large" scrolling="0" width="160px" height="30px" frameborder="0"></iframe>
+<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=gcushen&amp;repo=hugo-academic&amp;type=fork&amp;count=true&amp;size=large" scrolling="0" width="158px" height="30px" frameborder="0"></iframe>
+
+<script type="text/javascript">
+  (function defer() {
+    if (window.jQuery) {
+      jQuery(document).ready(function(){
+        GetLatestReleaseInfo();
+      });
+    } else {
+      setTimeout(function() { defer() }, 50);
+    }
+  })();
+  function GetLatestReleaseInfo() {
+    $.getJSON('https://api.github.com/repos/gcushen/hugo-academic/tags').done(function (json) {
+      let release = json[0];
+      // let downloadURL = release.zipball_url;
+      $('#academic-release').text('Latest release ' + release.name);
+    });
+}
+</script>
+ -->
 </div>
     
 
@@ -591,17 +616,17 @@
 
       
       
-      <img class="portrait" src="/authors/admin/avatar_hub858d3190b13167d0d2b2dee22c43a8d_23970_250x250_fill_q90_lanczos_center.jpeg" alt="Avatar">
+      <img class="portrait" src="/en/authors/admin/avatar_hub858d3190b13167d0d2b2dee22c43a8d_23970_250x250_fill_q90_lanczos_center.jpeg" alt="Avatar">
       
 
       <div class="portrait-title">
-        <h2>李 墨彤</h2>
+        <h2>Motong LI</h2>
         
 
         
         <h3>
-          <a href="http://www.osaka-u.ac.jp/ja" target="_blank" rel="noopener">
-          <span>大阪大学</span>
+          <a href="http://www.osaka-u.ac.jp/en" target="_blank" rel="noopener">
+          <span>Osaka University</span>
           </a>
         </h3>
         
@@ -621,7 +646,7 @@
           
         
         <li>
-          <a href="/#contact" >
+          <a href="/en/#contact" >
             <i class="fas fa-envelope big-icon"></i>
           </a>
         </li>
@@ -665,23 +690,25 @@
   <div class="col-12 col-lg-8">
 
     
-    <h1>プロフィール</h1>
+    <h1>Biography</h1>
 
-    <p>大阪大学言語文化研究科博士後期課程修了。専攻分野は音声学・音韻論で、主に日本語のアクセントを研究している。</p>
+    <!-- # Biography
+
+大阪大学言語文化研究科博士後期課程在学中。専攻分野は言語学で、日本語のアクセントを研究している。 -->
 
 
     <div class="row">
 
       
       <div class="col-md-5">
-        <h3>研究分野</h3>
+        <h3>Interests</h3>
         <ul class="ul-interests">
           
-          <li>音声学・音韻論</li>
+          <li>Phonetics &amp; Phonology</li>
           
-          <li>日本語教育</li>
+          <li>Japanese Language Education</li>
           
-          <li>データ分析</li>
+          <li>Data Analysis</li>
           
         </ul>
       </div>
@@ -689,30 +716,30 @@
 
       
       <div class="col-md-7">
-        <h3>学位</h3>
+        <h3>Education</h3>
         <ul class="ul-edu fa-ul">
           
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">博士（日本語・日本文化）, 2019</p>
-              <p class="institution">大阪大学</p>
+              <p class="course">Ph.D. (Japanese Language and Culture), 2019</p>
+              <p class="institution">Osaka University</p>
             </div>
           </li>
           
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">修士（日本語・日本文化）, 2016</p>
-              <p class="institution">大阪大学</p>
+              <p class="course">M.A. (Japanese Language and Culture), 2016</p>
+              <p class="institution">Osaka Technology</p>
             </div>
           </li>
           
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">学士（日本語）, 2013</p>
-              <p class="institution">西安外国語大学</p>
+              <p class="course">B.A. (Japanese), 2013</p>
+              <p class="institution">Xi&#39;an International Studies University</p>
             </div>
           </li>
           
@@ -803,14 +830,14 @@
 
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
-    <h1>最近の出版物</h1>
+    <h1>Recent Publications</h1>
     
   </div>
   <div class="col-12 col-lg-8">
 
     <div class="alert alert-note">
   <div>
-    Quickly discover relevant content by <a href="https://motongli.github.io/publication/" target="_blank">filtering publications</a>.
+    Quickly discover relevant content by <a href="https://motongli.github.io/en/publication/" target="_blank">filtering publications</a>.
   </div>
 </div>
 
@@ -840,7 +867,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/li_2018/" >The Learnability of the Accentuation of Sino-Japanese Words and Loanwords: The Hidden Structure Problem</a>
+      <a href="/en/publication/li_2018/" >The Learnability of the Accentuation of Sino-Japanese Words and Loanwords: The Hidden Structure Problem</a>
     </h3>
 
     
@@ -860,7 +887,7 @@
 
 
   
-  <span>李 墨彤</span>
+  <span><a href="/en/authors/motong-li/">Motong LI</a></span>
 
       </div>
       
@@ -878,8 +905,8 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/li_2018/li_2018_preprint.pdf" target="_blank" rel="noopener">
-  プリプリント
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/en/publication/li_2018/li_2018_preprint.pdf" target="_blank" rel="noopener">
+  Preprint
 </a>
 
 
@@ -892,7 +919,7 @@
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/li_2018/cite.bib">
+        data-filename="/en/publication/li_2018/cite.bib">
   BibTeX
 </button>
 
@@ -918,8 +945,8 @@
     
     
     
-    <a href="/publication/li_2018/" >
-      <img src="/publication/li_2018/featured_hu8a0116f1b7573d23b7b1237e12d16232_881945_150x0_resize_lanczos_2.png" alt="">
+    <a href="/en/publication/li_2018/" >
+      <img src="/en/publication/li_2018/featured_hu8a0116f1b7573d23b7b1237e12d16232_881945_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -951,7 +978,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/li_2017/" >日本語漢語の優勢なアクセント型の分布 ー外来語と比較してー</a>
+      <a href="/en/publication/li_2017/" >The Distribution of Dominant Accentual Patterns in Sino-Japanese Words: A Comparison with Loanwords</a>
     </h3>
 
     
@@ -971,7 +998,7 @@
 
 
   
-  <span>李 墨彤</span>
+  <span><a href="/en/authors/motong-li/">Motong LI</a></span>
 
       </div>
       
@@ -989,8 +1016,8 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/li_2017/li_2017_preprint.pdf" target="_blank" rel="noopener">
-  プリプリント
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/en/publication/li_2017/li_2017_preprint.pdf" target="_blank" rel="noopener">
+  Preprint
 </a>
 
 
@@ -1003,7 +1030,7 @@
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/li_2017/cite.bib">
+        data-filename="/en/publication/li_2017/cite.bib">
   BibTeX
 </button>
 
@@ -1029,8 +1056,119 @@
     
     
     
-    <a href="/publication/li_2017/" >
-      <img src="/publication/li_2017/featured_hu28ac7ffe4a8e2aebf4d4988c9da62dc0_465219_150x0_resize_lanczos_2.png" alt="">
+    <a href="/en/publication/li_2017/" >
+      <img src="/en/publication/li_2017/featured_hu28ac7ffe4a8e2aebf4d4988c9da62dc0_465219_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/en/publication/li_2015/" >中国語母語話者による日本語漢語アクセントの生成について ―過剰生成と母語転移を中心に―</a>
+    </h3>
+
+    
+    <div class="article-style">
+      <a href='https://www.jstage.jst.go.jp/article/onseikenkyu/19/3/19_KJ00010220662/_pdf/-char/ja' target='_blank'>Abstract
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><a href="/en/authors/motong-li/">Motong LI</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/en/publication/li_2015/li_2015_preprint.pdf" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/en/publication/li_2015/cite.bib">
+  BibTeX
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/en/publication/li_2015/" >
+      <img src="/en/publication/li_2015/featured_hu7662392fb26f4a761995920ed71b4743_114417_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -1085,11 +1223,12 @@
 <div class="row">
   
     <div class="col-12 col-lg-4 section-heading">
-      <h1>博士論文</h1>
+      <h1>Dissertation</h1>
       
     </div>
     <div class="col-12 col-lg-8">
-      <p><a href="https://ir.library.osaka-u.ac.jp/repo/ouka/all/73544/">日本語名詞のアクセント型の生成と自然度評価</a></p>
+      <p><a href="https://ir.library.osaka-u.ac.jp/repo/ouka/all/73544/">日本語名詞のアクセント型の生成と自然度評価（The Production and Naturalness Judgments of Accent Patterns of Japanese Nouns）</a>
+　</p>
 
     </div>
   
@@ -1174,7 +1313,7 @@
 
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
-    <h1>最近の発表</h1>
+    <h1>Recent &amp; Upcoming Talks</h1>
     
   </div>
   <div class="col-12 col-lg-8">
@@ -1199,7 +1338,7 @@
 
 <div class="view-list-item">
   <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
-  <a href="/talk/li_2019_zgryjxyjh/" >親密度の高い外来語におけるアクセント型の自然度評価</a>
+  <a href="/en/talk/li_2019_zgryjxyjh/" >親密度の高い外来語におけるアクセント型の自然度評価</a>
 
   
   <div class="article-metadata">
@@ -1208,7 +1347,7 @@
     </span>
     
     <span class="middot-divider"></span>
-    <span>杭州師範大学（中国）</span>
+    <span>Hangzhou Normal University, China</span>
     
   </div>
   
@@ -1238,7 +1377,7 @@
 
 <div class="view-list-item">
   <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
-  <a href="/talk/li_et_al_2019_psj/" >母語話者が有するアクセント感覚の統計的モデリングとそれを用いた学習者のアクセント感覚の定着に関する定量的分析</a>
+  <a href="/en/talk/li_et_al_2019_psj/" >Statistical modeling of natives’ implicit knowledge of accentuation and its use for quantitative analysis of learners’ acquisition of the implicit knowledge</a>
 
   
   <div class="article-metadata">
@@ -1247,7 +1386,7 @@
     </span>
     
     <span class="middot-divider"></span>
-    <span>大東文化大学（日本）</span>
+    <span>Utsunomiya Kyowa University, Utsunomiya City Campus, Japan</span>
     
   </div>
   
@@ -1277,7 +1416,7 @@
 
 <div class="view-list-item">
   <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
-  <a href="/talk/li_2019_phsj/" >親密度の低い漢語と四字漢語短縮形のアクセント型の⽣成及び⾃然度評価</a>
+  <a href="/en/talk/li_2019_phsj/" >親密度の低い漢語と四字漢語短縮形のアクセント型の⽣成及び⾃然度評価</a>
 
   
   <div class="article-metadata">
@@ -1286,7 +1425,7 @@
     </span>
     
     <span class="middot-divider"></span>
-    <span>首都大学東京・秋葉原サテライトキャンパス（日本）</span>
+    <span>Tokyo Metropolitan University, Akihabara Satellite Campus, Japan</span>
     
   </div>
   
@@ -1316,7 +1455,7 @@
 
 <div class="view-list-item">
   <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
-  <a href="/talk/li_et_al_2019_castel/" >母語話者が有するアクセント感覚の統計的モデリングとそれを用いた学習者のアクセント感覚の定着を調査する分析ツールの開発</a>
+  <a href="/en/talk/li_et_al_2019_castel/" >母語話者が有するアクセント感覚の統計的モデリングとそれを用いた学習者のアクセント感覚の定着を調査する分析ツールの開発</a>
 
   
   <div class="article-metadata">
@@ -1325,7 +1464,7 @@
     </span>
     
     <span class="middot-divider"></span>
-    <span>釜山外国語大学（韓国）</span>
+    <span>Busan University of Foreign Studies, South Korea</span>
     
   </div>
   
@@ -1355,7 +1494,7 @@
 
 <div class="view-list-item">
   <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
-  <a href="/talk/li_2018_psj/" >首都圏方言話者による架空外来語のアクセント型の生成及び自然度評価</a>
+  <a href="/en/talk/li_2018_psj/" >Production and Naturalness Judgements of Accent Patterns in Made-up Loanwords by Tokyo Metropolitan Dialect Speakers</a>
 
   
   <div class="article-metadata">
@@ -1364,7 +1503,7 @@
     </span>
     
     <span class="middot-divider"></span>
-    <span>宇都宮共和大学 宇都宮シティキャンパス 4階401講義室（日本）</span>
+    <span>Utsunomiya Kyowa University, Utsunomiya City Campus, Japan</span>
     
   </div>
   
@@ -1380,8 +1519,8 @@
 
     
     <div class="see-all">
-      <a href="/talk/">
-        発表一覧
+      <a href="/en/talk/">
+        More Talks
         <i class="fas fa-angle-right"></i>
       </a>
     </div>
@@ -1431,24 +1570,24 @@
 <div class="row">
   
     <div class="col-12 col-lg-4 section-heading">
-      <h1>授業</h1>
+      <h1>Teaching</h1>
       
     </div>
     <div class="col-12 col-lg-8">
-      <h2>ティーチングアシスタント（TA）</h2>
+      <h2>Teaching Assistant（TA）</h2>
 
-<p><h3>大阪大学</h3></p>
+<p><h3>Osaka University</h3></p>
 
 <ul style="line-height: 200%">
 
 <li>
-    <a href="https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_c2116FA6D-FF5D-3F14-DAAF-06746C2D4EB1_k058110DB-E7A1-8258-DB9D-DB433D340DB8"　target='_blank'>英語（Reading）</a> <sup>2016年</sup>/<sub>１学期</sub> , <sup>2017年</sup>/<sub>１学期</sub>
+    <a href="https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_c2116FA6D-FF5D-3F14-DAAF-06746C2D4EB1_k058110DB-E7A1-8258-DB9D-DB433D340DB8">English (Reading) </a> <sup>2016</sup>/<sub>1<sup>st</sup> semester</sub> , <sup>2017</sup>/<sub>1<sup>st</sup> semester</sub>
     </li>
 <li>
-<a href="https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_cEF45870A-881E-B2F3-379E-A6FFF51639D8_k4C3075AE-5379-775E-A776-3A60E74AC5AE" target='_blank'>コーパス言語学研究Ａ</a> <sup>2017年</sup>/<sub>１学期</sub> , <sup>2018年</sup>/<sub>１学期</sub>
+<a href="https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_cEF45870A-881E-B2F3-379E-A6FFF51639D8_k4C3075AE-5379-775E-A776-3A60E74AC5AE">Corpus Linguistics A </a> <sup>2017</sup>/<sub>1<sup>st</sup> semester</sub> , <sup>2018</sup>/<sub>1<sup>st</sup> semester</sub>
 </li>
 <li>
-<a href="https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_cEF45870A-881E-B2F3-379E-A6FFF51639D8_k3F7E4DFC-996E-FF92-B80C-696A455EB7A3" target='_blank'>コーパス言語学研究Ｂ</a> <sup>2016年</sup>/<sub>２学期</sub> , <sup>2017年</sup>/<sub>２学期</sub> , <sup>2018年</sup>/<sub>２学期</sub>
+<a href="https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_cEF45870A-881E-B2F3-379E-A6FFF51639D8_k3F7E4DFC-996E-FF92-B80C-696A455EB7A3">Corpus Linguistics B </a> <sup>2016</sup>/<sub>2<sup>nd</sup> semester</sub> , <sup>2017</sup>/<sub>2<sup>nd</sup> semester</sub> , <sup>2018</sup>/<sub>2<sup>nd</sup> semester</sub>
 </li>
 </ul>
 
@@ -1499,7 +1638,7 @@
 
 <div class="row contact-widget">
   <div class="col-12 col-lg-4 section-heading">
-    <h1>連絡先</h1>
+    <h1>Contact</h1>
     
   </div>
   <div class="col-12 col-lg-8">
@@ -1622,13 +1761,13 @@
     
     
     <script>
-      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"結果が見つかりませんでした","placeholder":"検索...","results":"results found"};
+      const search_config = {"indexURI":"/en/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
-        'post': "投稿",
-        'project': "プロジェクト",
-        'publication' : "出版物",
-        'talk' : "発表"
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
         };
     </script>
     
