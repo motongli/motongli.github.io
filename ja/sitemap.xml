@@ -423,6 +423,36 @@
   </url>
   
   <url>
+    <loc>https://motongli.github.io/publication_types/1/</loc>
+    <lastmod>2015-10-01T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://motongli.github.io/en/publication_types/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://motongli.github.io/publication_types/1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://motongli.github.io/publication/li_2015/</loc>
+    <lastmod>2015-10-01T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://motongli.github.io/en/publication/li_2015/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://motongli.github.io/publication/li_2015/"
+                />
+  </url>
+  
+  <url>
     <loc>https://motongli.github.io/authors/admin/</loc>
     <xhtml:link
                 rel="alternate"
