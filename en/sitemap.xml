@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://motongli.github.io/en/publication_types/2/</loc>
+    <lastmod>2020-03-31T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://motongli.github.io/publication_types/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://motongli.github.io/en/publication_types/2/"
+                />
+  </url>
+  
+  <url>
     <loc>https://motongli.github.io/en/authors/</loc>
-    <lastmod>2019-11-03T00:00:00+08:00</lastmod>
+    <lastmod>2020-03-31T00:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -18,12 +33,92 @@
   </url>
   
   <url>
-    <loc>https://motongli.github.io/en/authors/li-motong/</loc>
-    <lastmod>2019-11-03T00:00:00+08:00</lastmod>
+    <loc>https://motongli.github.io/en/authors/motong-li/</loc>
+    <lastmod>2020-03-31T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://motongli.github.io/en/tags/peer-reviewed/</loc>
+    <lastmod>2020-03-31T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://motongli.github.io/en/publication_types/</loc>
+    <lastmod>2020-03-31T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://motongli.github.io/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://motongli.github.io/en/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://motongli.github.io/en/publication/</loc>
+    <lastmod>2020-03-31T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://motongli.github.io/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://motongli.github.io/en/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://motongli.github.io/en/tags/</loc>
+    <lastmod>2020-03-31T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://motongli.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://motongli.github.io/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://motongli.github.io/en/publication/li_2020/</loc>
+    <lastmod>2020-03-31T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://motongli.github.io/publication/li_2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://motongli.github.io/en/publication/li_2020/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://motongli.github.io/en/</loc>
+    <lastmod>2020-03-31T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://motongli.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://motongli.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://motongli.github.io/en/authors/li-motong/</loc>
     <lastmod>2019-11-03T00:00:00+08:00</lastmod>
   </url>
   
@@ -39,36 +134,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://motongli.github.io/en/talk/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://motongli.github.io/en/tags/</loc>
-    <lastmod>2019-11-03T00:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://motongli.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://motongli.github.io/en/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://motongli.github.io/en/</loc>
-    <lastmod>2019-11-03T00:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://motongli.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://motongli.github.io/en/"
                 />
   </url>
   
@@ -269,56 +334,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://motongli.github.io/en/talk/li_201805_paik/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://motongli.github.io/en/publication_types/2/</loc>
-    <lastmod>2018-03-31T00:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://motongli.github.io/publication_types/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://motongli.github.io/en/publication_types/2/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://motongli.github.io/en/authors/motong-li/</loc>
-    <lastmod>2018-03-31T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://motongli.github.io/en/publication_types/</loc>
-    <lastmod>2018-03-31T00:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://motongli.github.io/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://motongli.github.io/en/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://motongli.github.io/en/publication/</loc>
-    <lastmod>2018-03-31T00:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://motongli.github.io/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://motongli.github.io/en/publication/"
                 />
   </url>
   

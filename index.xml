@@ -5,12 +5,21 @@
     <link>https://motongli.github.io/</link>
       <atom:link href="https://motongli.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>李 墨彤</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2020 李 墨彤</copyright><lastBuildDate>Sun, 03 Nov 2019 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2020 李 墨彤</copyright><lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://motongli.github.io/img/icon-192.png</url>
       <title>李 墨彤</title>
       <link>https://motongli.github.io/</link>
     </image>
+    
+    <item>
+      <title>親密度の低い2字漢語と4字漢語短縮形のアクセントの生成</title>
+      <link>https://motongli.github.io/publication/li_2020/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0800</pubDate>
+      <guid>https://motongli.github.io/publication/li_2020/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
     
     <item>
       <title>親密度の高い外来語におけるアクセント型の自然度評価</title>

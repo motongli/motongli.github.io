@@ -5,12 +5,20 @@
     <link>https://motongli.github.io/en/authors/</link>
       <atom:link href="https://motongli.github.io/en/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 李 墨彤</copyright><lastBuildDate>Sun, 03 Nov 2019 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 李 墨彤</copyright><lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://motongli.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://motongli.github.io/en/authors/</link>
     </image>
+    
+    <item>
+      <title>Motong LI</title>
+      <link>https://motongli.github.io/en/authors/motong-li/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0800</pubDate>
+      <guid>https://motongli.github.io/en/authors/motong-li/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>LI Motong</title>
@@ -57,14 +65,6 @@
       <link>https://motongli.github.io/en/authors/%E6%9D%8E-%E5%A2%A8%E5%BD%A4/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0800</pubDate>
       <guid>https://motongli.github.io/en/authors/%E6%9D%8E-%E5%A2%A8%E5%BD%A4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Motong LI</title>
-      <link>https://motongli.github.io/en/authors/motong-li/</link>
-      <pubDate>Sat, 31 Mar 2018 00:00:00 +0800</pubDate>
-      <guid>https://motongli.github.io/en/authors/motong-li/</guid>
       <description></description>
     </item>
     
